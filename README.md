@@ -34,7 +34,7 @@ Graphic Designer (completed Associate Degree / Tecnólogo), Motion Designer, and
 - **[Agent Graph Builder (Live Demo)](https://antipido.github.io/agent-graph-builder/)** ([repo](https://github.com/Antipido/agent-graph-builder)) — Editor visual em nós (`React 19 + TypeScript + React Flow + Tailwind`) para arquitetar loops Worker-Supervisor e compilar Meta-Prompts.
 - **[Maestro Engine v2](https://antoniorodriguesdsg.vercel.app/projetos/maestro-engine-v2)** — Gateway multi-LLM compatível com OpenAI + MCP Server + Workflows (Loop, Hardness Eval, GraphRAG) + Dify DSL + Failover Ollama + BudgetGuard (validado em teste contínuo de 10h · 599,1 min · 0 erros).
 - **[Aureum CRM](https://antoniorodriguesdsg.vercel.app/projetos/aureum-crm)** — CRM full-stack (`Next.js + TypeScript + Supabase`) com WhatsApp omnichannel, geração `.docx`, Kanban, RAG de ofertas e servidor MCP nativo (teste 10h · 40/40 ciclos 100%).
-- **[LinkedIn Autonomous Agent & Extensão Chrome MV3](https://antoniorodriguesdsg.vercel.app/projetos/linkedin-autonomous-agent)** — Agente Python CDP + HUD MV3 + sync Obsidian + 1.246 testes automatizados.
+- **[Agente de Carreira (Python + Roteador LLM + MV3)](https://antoniorodriguesdsg.vercel.app/projetos/agente-de-carreira)** — Triagem de vagas por IA, pesquisa de empresas, dossiês no Obsidian e 1.246 testes automatizados.
 - **[Plugins Próprios de Figma](https://antoniorodriguesdsg.vercel.app/projetos/figma-designops-plugins)** (`AR Portfolio Builder` & `AR Artes Editáveis`) — Automação via Figma Plugin API gerando 112 artboards editáveis PT/EN.
 - **Creative Lab / Side Quests:** `Devil Ring` (Rust + C# + Meshy 3D), `FICSIT & Zomboid Command Hubs`, `Telemetria AC & FH6` (Python Shared Memory / UDP).
 
